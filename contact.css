@@ -1,0 +1,22 @@
+.papaninfor{
+    height: 1000px;
+    width: 30%;
+    border-radius: 5px;
+    overflow: hidden;
+    position: relative;
+    box-shadow: 0 0 10px rgba(0, 0, 0, .3);
+    margin-right: auto;
+    margin-left: 23.5rem;
+}
+.contact {
+    background-color: aqua;
+    height: 1000px;
+    width: 30%;
+    border-radius: 5px;
+    margin-left: auto;
+    margin-right: 23.5rem;
+    margin-top: -1000px;
+    overflow: hidden;
+    position: relative;
+    box-shadow: 0 0 10px rgba(0, 0, 0, .3);
+}
